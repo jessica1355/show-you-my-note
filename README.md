@@ -1,2 +1,2 @@
-# show-you-my-note
-视频学习笔记整理，包含各种：SketchUp
+## Note1 SketchUp
+ [视频原链接](https://www.bilibili.com/video/av28125534/)
